@@ -11100,5 +11100,13 @@ REGION_DETAILS = {
             "z1d.xlarge"
         ],
         "signature_version": "2"
+    },
+    "me-south-1": {
+        "api_name": "ec2_me_south",
+        "country": "Bahrain",
+        "endpoint": "ec2.me-south-1.amazonaws.com",
+        "id": "me-south-1",
+        "instance_types": [],
+        "signature_version": "4"
     }
 }
