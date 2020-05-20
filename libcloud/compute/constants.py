@@ -11108,5 +11108,13 @@ REGION_DETAILS = {
         "id": "me-south-1",
         "instance_types": [],
         "signature_version": "4"
+    },
+    "ap-east-1": {
+        "api_name": "ec2_ap_east",
+        "country": "Hong Kong",
+        "endpoint": "ec2.ap-east-1.amazonaws.com",
+        "id": "ap-east-1",
+        "instance_types": [],
+        "signature_version": "4"
     }
 }
