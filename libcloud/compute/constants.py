@@ -11124,5 +11124,13 @@ REGION_DETAILS = {
         "id": "eu-north-1",
         "instance_types": [],
         "signature_version": "4"
+    },
+    "eu-south-1": {
+        "api_name": "ec2_eu_south",
+        "country": "Milan",
+        "endpoint": "ec2.eu-south-1.amazonaws.com",
+        "id": "eu-south-1",
+        "instance_types": [],
+        "signature_version": "4"
     }
 }
